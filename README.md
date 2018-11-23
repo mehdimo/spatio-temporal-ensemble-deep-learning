@@ -2,7 +2,7 @@
 
 This is an implementation of this paper: 
 
-M. Mohammadi, A. Al-Fuqaha, "Exploiting the Spatio-Temporal Patterns in IoT Data to Establish a Dynamic Ensemble of Distributed Learners," IEEE Access, Vol. PP, No. 99, 2018.
+M. Mohammadi, A. Al-Fuqaha, "[Exploiting the Spatio-Temporal Patterns in IoT Data to Establish a Dynamic Ensemble of Distributed Learners](https://ieeexplore.ieee.org/abstract/document/8501920/)," IEEE Access, Vol. PP, No. 99, 2018.
 
 ## How to use:
 
